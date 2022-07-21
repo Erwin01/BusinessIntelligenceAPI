@@ -1,2 +1,2 @@
 # BusinessIntelligenceAPI
-API development in Visual Studio
+API development in Visual Studio with Sql Server
